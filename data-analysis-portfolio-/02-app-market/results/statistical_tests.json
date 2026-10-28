@@ -1,0 +1,23 @@
+{
+  "kruskal_wallis": {
+    "statistic": 18.890262501821347,
+    "p_value": 7.90736191934848e-05
+  },
+  "pairwise": [
+    {
+      "comparison": "Minimal vs Moderate",
+      "p_value": 0.003360466085820635,
+      "bonferroni_significant": true
+    },
+    {
+      "comparison": "Minimal vs Heavy",
+      "p_value": 3.117522098866107e-05,
+      "bonferroni_significant": true
+    },
+    {
+      "comparison": "Moderate vs Heavy",
+      "p_value": 0.1606292934863286,
+      "bonferroni_significant": false
+    }
+  ]
+}

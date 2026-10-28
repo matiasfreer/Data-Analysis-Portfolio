@@ -1,0 +1,14 @@
+{
+  "observations": 1461,
+  "first_date": "2021-01-04",
+  "last_date": "2026-10-27",
+  "adf_raw_p": 0.7712426549562987,
+  "adf_differenced_p": 0.0,
+  "mean_daily_pct": 0.09574041988441573,
+  "std_daily_pct": 2.7396147516699685,
+  "lower_3sd": -8.12310383512549,
+  "upper_3sd": 8.314584674894322,
+  "outlier_days": 17,
+  "golden_crosses": 3,
+  "death_crosses": 3
+}

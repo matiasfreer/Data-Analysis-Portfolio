@@ -1,0 +1,8 @@
+{
+  "source": "Yahoo Finance through yfinance",
+  "ticker": "META",
+  "start": "2021-01-01",
+  "end_exclusive": "2026-10-28",
+  "auto_adjust": true,
+  "retrieved_utc": "2026-10-28T17:41:32.370509+00:00"
+}
